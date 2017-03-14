@@ -7,5 +7,5 @@ applications:
   host: Z2C-mwb
   disk_quota: 1024M
   services:
-    - Speech to Text-nw
+    - Speech to Text-n2
     - Text to Speech-wo
